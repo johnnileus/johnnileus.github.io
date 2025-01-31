@@ -100,13 +100,24 @@ header {
     position: relative;
     overflow:hidden;
     height: 300px;
+
 }
 
+.game img {
+    position:absolute;
+    right:0px;
+    width: 100%;
+    height: 100%;
+    filter: brightness(50%) blur(3px);
 
-.game:hover {
-    background-color: rgba(255,255,255, 0.3);
-    transition: background-color 0.3s ease-in-out;
+}
+.game img:hover {
+    filter: brightness(60%) blur(0px);
+    transition: filter .3s ease-in-out;
+}
 
+.game p, .game h1 {
+    position: relative;
 }
 
 h1 {
