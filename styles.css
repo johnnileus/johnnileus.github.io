@@ -2,9 +2,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url('image.png') no-repeat center center fixed;
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: rgb(20,20,40);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -15,10 +15,11 @@ body {
 header {
     width: 100%;
     background: #333;
-    color: white;
+    color: rgb(255, 216, 0);
     text-align: center;
     padding: 1rem;
     font-size: 1.5rem;
+    font-family: 'Courier New', 'Courier New', monospace;
 }
 
 .container {
@@ -28,30 +29,131 @@ header {
     margin-top: 20px;
 }
 
+.page-container {
+    display: flex;
+    width: 90%;
+    max-width: 1400px;
+    margin-top: 20px;
+}
+.text-column {
+    flex: 2;
+    background: rgb(40,40,55);
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid rgb(255, 216, 0);
+}
+
+.text-column video {
+    justify-content: center;
+    align-items: center;
+}
+
+.text-column a:link {
+    color: darkgray
+}
+.text-column a:visited {
+    color: darkgray
+}
+.text-column a:hover {
+    color: darkgray
+}
+.text-column a:active {
+    color: darkgray
+}
+
+.screenshot-column {
+    flex: 1;
+    display: flex;
+    background: rgb(40,40,55);
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin: 5px;
+    flex-direction: column;
+    border: 1px solid rgb(255, 216, 0);
+}
+
+.screenshot-column img {
+    border-bottom: 1px solid rgb(255, 216, 0);
+    width: 100%
+}
+
 .game-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     flex: 3;
-    background: rgb(182, 255, 0);
+    background: rgb(40,40,55);
     padding: 16px;
-    border-radius: 4px;
+    border: 1px solid rgb(255, 216, 0)
 }
 
 .game {
-    background: white;
-    padding: 20px;
-    border-radius: 4px;
+    background: rgb(55,55,70);
+    padding: 0px;
     text-align: center;
+    border: 1px solid rgb(255, 216, 0);
+    text-decoration:none;
+    color:inherit;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow:hidden;
+    height: 300px;
+}
+
+
+.game:hover {
+    background-color: rgba(255,255,255, 0.3);
+    transition: background-color 0.3s ease-in-out;
+
+}
+
+h1 {
+    font-family: 'Courier New', 'Courier New', monospace;
+    color: rgb(255, 216, 0);
+    margin: 2px 0;
+    filter: none;
+}
+
+h2 {
+    font-family: 'Courier New', 'Courier New', monospace;
+    color: rgb(255, 216, 0);
+    margin: 0px 0;
+}
+
+h3 {
+    font-family: 'Courier New', 'Courier New', monospace;
+    color: rgb(255, 216, 0);
+    margin: 0px 0;
+}
+
+
+p {
+    font-family: 'Courier New', 'Courier New', monospace;
+    color: rgb(255, 216, 0);
+    margin: 2px 0;
+    filter: none;
 }
 
 .sidebar {
     flex: 1;
-    background: white;
+    background: rgb(40,40,55);
     padding: 20px;
     margin-left: 20px;
-    border-radius: 10px;
+    border: 1px solid rgb(255, 216, 0);
     text-align: center;
+}
+
+.sidebar h3 {
+    font-family: 'Courier New', 'Courier New', monospace;
+    color: rgb(255, 216, 0)
+}
+
+
+.sidebar p {
+    font-family: 'Courier New', 'Courier New', monospace;
+    color: rgb(255, 216, 0)
 }
 
 .sidebar img {
@@ -59,4 +161,31 @@ header {
     height: 256px;
     border-radius: 50%;
     margin-bottom: 10px;
+}
+
+
+
+header .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.home-button {
+    color: rgb(255, 216, 0);
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: 'Courier New', monospace;
+    transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+    background-color: rgb(255, 180, 0);
+}
+
+header .header-container span {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
