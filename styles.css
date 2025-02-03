@@ -125,32 +125,13 @@ header {
 
 .game p, .game h1 {
     position: relative;
+    pointer-events:none;
 }
 
-h1 {
+h1, h2, h3, p {
     font-family: 'Courier New', 'Courier New', monospace;
     color: rgb(255, 216, 0);
     margin: 2px 0;
-    filter: none;
-}
-
-h2 {
-    font-family: 'Courier New', 'Courier New', monospace;
-    color: rgb(255, 216, 0);
-    margin: 0px 0;
-}
-
-h3 {
-    font-family: 'Courier New', 'Courier New', monospace;
-    color: rgb(255, 216, 0);
-    margin: 0px 0;
-}
-
-
-p {
-    font-family: 'Courier New', 'Courier New', monospace;
-    color: rgb(255, 216, 0);
-    margin: 4px 0;
     filter: none;
 }
 
@@ -172,7 +153,8 @@ p {
 
 .sidebar p {
     font-family: 'Courier New', 'Courier New', monospace;
-    color: rgb(255, 216, 0)
+    color: rgb(255, 216, 0);
+    text-align: left;
 }
 
 .sidebar img {
