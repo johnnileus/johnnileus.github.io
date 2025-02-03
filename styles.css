@@ -80,12 +80,18 @@ header {
 
 .game-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     flex: 3;
     background: rgb(40,40,55);
     padding: 16px;
     border: 1px solid rgb(255, 216, 0)
+}
+
+.game-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    flex: 3;
 }
 
 .game {
@@ -108,7 +114,7 @@ header {
     right: 0px;
     width: 100%;
     height: 100%;
-    filter: brightness(50%) blur(3px);
+    filter: brightness(50%) blur(2px);
     transition: filter .3s ease-in-out, transform .5s ease-in-out;
 }
 
