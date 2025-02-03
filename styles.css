@@ -104,16 +104,17 @@ header {
 }
 
 .game img {
-    position:absolute;
-    right:0px;
+    position: absolute;
+    right: 0px;
     width: 100%;
     height: 100%;
     filter: brightness(50%) blur(3px);
-
+    transition: filter .3s ease-in-out, transform .5s ease-in-out;
 }
+
 .game img:hover {
     filter: brightness(60%) blur(0px);
-    transition: filter .3s ease-in-out;
+    transform: scale(1.03)
 }
 
 .game p, .game h1 {
@@ -154,6 +155,7 @@ p {
     margin-left: 20px;
     border: 1px solid rgb(255, 216, 0);
     text-align: center;
+    max-height: 750px;
 }
 
 .sidebar h3 {
