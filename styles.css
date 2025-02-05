@@ -48,9 +48,9 @@ header {
     align-items: center;
 }
 
-    .text-column a {
-        font-family: 'Courier New', 'Courier New', monospace;
-    }
+.text-column a {
+    font-family: 'Courier New', 'Courier New', monospace;
+}
 
 .text-column a:link {
     color: darkgray
