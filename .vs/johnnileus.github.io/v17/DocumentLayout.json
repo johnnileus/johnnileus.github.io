@@ -1,41 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\",
+  "WorkspaceRootPath": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\physics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\physics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\physics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\images\\graphics.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\graphics.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\gol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\gol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\graphics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\graphics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\graphics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\website.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\website.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\diss.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\gol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\gol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\website.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\diss.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\diss.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\snapshot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\snapshot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\snapshot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 336,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,72 +49,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\styles.css",
+              "DocumentMoniker": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\styles.css",
               "RelativeDocumentMoniker": "styles.css",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\styles.css",
+              "ToolTip": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\styles.css",
               "RelativeToolTip": "styles.css",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAALUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-30T05:59:11.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "physics.html",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\physics.html",
+              "DocumentMoniker": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\physics.html",
               "RelativeDocumentMoniker": "pages\\physics.html",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\physics.html",
+              "ToolTip": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\physics.html",
               "RelativeToolTip": "pages\\physics.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-07T16:19:25.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "graphics.html",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\graphics.html",
+              "DocumentMoniker": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\graphics.html",
               "RelativeDocumentMoniker": "pages\\graphics.html",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\graphics.html",
+              "ToolTip": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\graphics.html",
               "RelativeToolTip": "pages\\graphics.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-05T14:09:26.644Z"
+              "WhenOpened": "2025-02-05T14:09:26.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "graphics.png",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\images\\graphics.png",
-              "RelativeDocumentMoniker": "images\\graphics.png",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\images\\graphics.png",
-              "RelativeToolTip": "images\\graphics.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-05T14:09:21.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "website.html",
               "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\website.html",
-              "RelativeDocumentMoniker": "pages\\website.html",
               "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\website.html",
-              "RelativeToolTip": "pages\\website.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-05T14:04:25.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "gol.html",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\gol.html",
+              "DocumentMoniker": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\gol.html",
               "RelativeDocumentMoniker": "pages\\gol.html",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\gol.html",
+              "ToolTip": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\gol.html",
               "RelativeToolTip": "pages\\gol.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -127,23 +110,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\index.html",
+              "DocumentMoniker": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\index.html",
+              "ToolTip": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-30T23:22:07.555Z"
+              "WhenOpened": "2025-01-30T23:22:07.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "snapshot.html",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\snapshot.html",
+              "DocumentMoniker": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\snapshot.html",
               "RelativeDocumentMoniker": "pages\\snapshot.html",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\snapshot.html",
+              "ToolTip": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\snapshot.html",
               "RelativeToolTip": "pages\\snapshot.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -151,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "diss.html",
-              "DocumentMoniker": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\diss.html",
+              "DocumentMoniker": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\diss.html",
               "RelativeDocumentMoniker": "pages\\diss.html",
-              "ToolTip": "C:\\Users\\Goines\\Documents\\GitHub\\johnnileus.github.io\\pages\\diss.html",
+              "ToolTip": "D:\\Documents\\.GitHubProjects\\johnnileus.github.io\\pages\\diss.html",
               "RelativeToolTip": "pages\\diss.html",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
