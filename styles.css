@@ -113,6 +113,10 @@ header {
 
 }
 
+.todo {
+    border: 1px solid rgb(16, 13, 56);
+}
+
 .game img {
     position: absolute;
     right: 0px;
@@ -126,7 +130,10 @@ header {
     filter: brightness(60%) blur(0px);
     transform: scale(1.03)
 }
-
+.todo img:hover {
+    filter: brightness(50%) blur(2px);
+    transform: scale(1)
+}
 .game p, .game h1 {
     position: relative;
     pointer-events:none;
