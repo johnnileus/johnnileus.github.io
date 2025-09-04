@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+
+
+<body>
+<header>
+  <div class="header-container">
+    <a href="../index.html" class="home-button">Home</a>
+  </div>
+</header>
+
+<div class="page-container">
+  <div class="text-column">
+    <h2>Agent & Chunk based City Generation</h2>
+    <br>
+    <p>
+      This project, developed for my MSc in Game Engineering, tackles the challenge of generating large and performant cities in real time.
+      The goal was to research and develop chunk-based algorithms capable of producing infinite cities.
+
+    <hr>
+    <h3>Key Features</h3>
+    <p>Using Unity and C#, I designed and implemented three algorithms to explore the different trade-offs between performance and visuals.</p>
+    <ul>
+      <li>
+        <strong>Agent-Based Generator:</strong>
+        A conventional road generator that simulates organic growth to serve as a baseline for visual quality,
+        generating natural and meandering road networks.
+      </li>
+      <br>
+      <li>
+        <strong>Grid-Based Chunk Generator:</strong>
+        Generates a road network aligned to a grid and within individual chunks, optimised for speed.
+      </li>
+      <br>
+      <li>
+        <strong>Voronoi-Based Chunk Generator:</strong>
+        A modified algorithm of the previous generator, using Voronoi cells to randomise the shape of each chunk and produce
+        more natural, organic cells. 
+      </li>
+    </ul>
+    <p>A pipeline was created to translate these 2D road networks into 3D geometry, including roads and extruded building footprints.</p>
+    
+
+    <hr>
+
+    </p>
+
+    <br>
+    <p><a href="../documents/CSC8599_Gvidas_Danielius.pdf" download>CSC8599_Gvidas_Danielius.pdf</a> <- Dissertation write-up</p>
+    <p><a href="https://github.com/johnnileus/MastersDiss">MastersDiss</a> <- Repository</p>
+
+
+
+  </div>
+
+  <div class="screenshot-column">
+    <img src="../gifs/pgdiss.gif">
+    <img src="../images/pgdissVoronoi.png">
+    <img src="../images/pgdissGrid.png">
+    <img src="../gifs/pgdissAgent.gif">
+
+
+
+  </div>
+
+</div>
+
+</body>
+</html>

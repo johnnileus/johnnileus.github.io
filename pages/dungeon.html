@@ -19,55 +19,48 @@
         <div class="text-column">
             <h2>Dungeon Crawler Rogue-like Personal Project</h2>
             <br>
-            <p>
+            <p>During a summer project, I developed a roguelike dungeon-crawler in Unity.
+                The game features a dynamic inventory system, unique combat mechanics,
+                and procedural dungeon generation. While the project is clearly unfinished, it taught me
+                a lot of new skills that I put towards future projects.
+                </p>
 
-                During the summer after my second year, I took on the challenge of developing my first game in Unity
-                to get some experience with it for some upcoming modules. In the end I chose to create a roguelike
-                dungeon-crawler. Throughout the process I implemented some interesting features including an inventory
-                system, unique combat mechanics and procedural dungeon generation.</br></br>
+            <hr>
 
-                <b> • INVENTORY SYSTEM </b></br>
-                To handle inventory management, I designed a system that allowed for stackable items
-                and the ability to drag these between slots. This required implementing a number of combinations for
-                all possible item combinations and stack counts for both left and right-click actions, including
-                overflowing stacks and picking up a stack too big from the ground.</br></br>
+            <h3>Key Features</h3>
+            <ul>
+                <li>
+                    <strong>Dynamic Inventory &amp; Items:</strong>
+                    Created a robust inventory system that supports
+                    drag-and-drop management and item stacking, including
+                    handling all edge cases like stack overflows. Items are
+                    generated from scriptable objects, with randomized stat
+                    modifiers applied at spawn to create unique loot. Equippable
+                    weapons have distinct, assignable attack patterns that scale
+                    with the item's final damage and speed stats.
+                </li>
+                <br>
+                <li>
+                    <strong>Segmented Health &amp; Combat:</strong> 
+                    To create more strategic gameplay, I implemented a non-traditional
+                    , segmented health bar. Healing only restores the current
+                    segment, not the full bar, which opens the door for interesting other mechanics.
+                    The system includes expandable enemy types with unique animated attack patterns.
+                </li>
+                <br>
+                <li>
+                    <strong>Procedural Dungeon Generation:</strong> 
+                    The dungeon layout is a randomized, loop-free maze generated using
+                    a modified version of <strong>Prim's algorithm</strong>. Rooms are 
+                    placed dynamically from a set of prefabs that are rotated to fit the
+                    required entrance configurations. Enemies spawn in each room, and 
+                    the boss room is strategically placed at the furthest point from the
+                    start to create a final challenge.
+                </li>
+            </ul>
 
-                Each item in the game has a set of base stats which are stored in a scriptable object, and when spawned
-                in the world, a unique percentage modifier is added to this to create a unique weapon each time. A weapon
-                with an attack of 3 and a +20% bonus would result in a 3.6 attack.</br></br>
+            <hr>
 
-                As well as this, equippable items such as weapons each have their own unique attacks which can be assigned
-                individually, with five different projectiles currently implemented. The attack takes in the item's unique
-                attack damage and speed and changes how the attack behaves accordingly.</br></br></br>
-
-                <b> • COMBAT MECHANICS</b></br>
-                For enemies to fight, I implemented a basic enemy with a health bar and which uses a row of icicle attacks
-                at the player, animated using Unity's animation controller. This system is simple, but has the ability to
-                be expanded easily.</br></br>
-
-                I wanted to experiment with a unique health bar system. Instead of a standard
-                bar I implemented one that is subdivided into segments, where healing only restores up to the next division.
-                While this was a simple implementation, it opened the door for additional mechanics such as poison attacks
-                rather than reducing a fixed number of hit points.</br></br></br>
-
-                <b> • DUNGEON GENERATION</b></br>
-                To generate the dungeon layout, I used a modified version of Prim's algorithm to create a randomised
-                grid-based maze. I kept track of all active and frontier cells, expanding the dungeon by connecting a
-                randomly chosen frontier cell to an existing active neighbour. Repeating this until all cells are visited
-                created an unpredictable loop-free maze.</br></br>
-
-                For room placement, I designed a system that generated rooms dynamically and categorised them into five
-                groups based on their entrance configuration. Instead of creating seperate prefabs for each type of entrance
-                combination, it was possible to combine some into the same prefab and just rotate it. A north+east room is
-                the same as an east+south room, just rotated 90 degrees. Corridor prefabs are also created to make a gap
-                between room entrances.</br></br>
-
-                The dungeon also includes a boss room, which is generated at the furthest away point from the beginning cell
-                and is kept track of as the dungeon is generated. When the player reaches this room, they're teleported to a
-                seperate arena. Enemies are generated randomly within each room, and prevent the player from progressing past
-                that room without killing every enemy.</br></br>
-
-            </p>
 
             <p><a href="https://github.com/johnnileus/GameAttempt-1"> github repository</a> <- Repository</p>
 
