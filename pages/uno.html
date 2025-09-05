@@ -17,11 +17,39 @@
 
     <div class="page-container">
         <div class="text-column">
-            <h2>Networked UNO Game</h2>
+            <h2>Multiplayer Card Game</h2>
+            <br>
+            <p>This project is a multiplayer card game, taking slight inspiration from UNO, developed from the ground up using pygame and sockets.
+            This was my first large-scale project, having created it during my first year of A-Levels as a practise project for my upcoming NEA. It implements networking and game logic in a way
+            I had not done before.</p>
+
+            <hr>
+            <h3>Key Features</h3>
+            <p></p>
+            <ul>
+                <li>
+                    I built the client-server architecture using Python's socket library, and the pickle library to serialise and transmit any game states
+                    between clients.
+                </li>
+                <br>
+                <li>
+                    All game rules and the central game state are managed on the server, which prevents cheating and ensures every player's game is synchronised
+                </li>
+                <br>
+                <li>
+                    Pygame was used to render the visual elements, including player hands, the discard pile and other UI components, as well as managing player input.
+                </li>
+            </ul>
+            <hr>
+            <p>
+                <a href="../files/UNO%20project.zip" download> UNO_project</a> <- Source Code</p>
+            </p>
+
+
         </div>
 
         <div class="screenshot-column">
-            <img src="../images/uno.png" alt="Screenshot">
+            <img src="../gifs/uno.gif" alt="Screenshot">
 
 
 
