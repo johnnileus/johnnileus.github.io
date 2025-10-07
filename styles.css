@@ -54,20 +54,8 @@ header {
     align-items: center;
 }
 
-.text-column a {
+a, a:link, a:visited, a:hover, a:active {
     font-family: 'Courier New', 'Courier New', monospace;
-}
-
-.text-column a:link {
-    color: darkgray
-}
-.text-column a:visited {
-    color: darkgray
-}
-.text-column a:hover {
-    color: darkgray
-}
-.text-column a:active {
     color: darkgray
 }
 
